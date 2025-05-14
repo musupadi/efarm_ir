@@ -24,9 +24,3 @@ This repository hosts a lightweight **multimodal information retrieval (IR) syst
 git clone https://github.com/musupadi/ir-efarm.git
 cd efarm-ir
 pip install -r requirements.txt
-
-### 2. Manualy Install
-pip install streamlit pandas numpy matplotlib mysql-connector-python scikit-learn \
-            pytesseract openpyxl transformers torch nltk sastrawi \
-            SpeechRecognition pydub opencv-python python-docx
-
